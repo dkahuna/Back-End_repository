@@ -1,0 +1,25 @@
+{
+  "name": "Constructor_WordGuess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^6.4.1",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkahuna/Constructor_WordGuess.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkahuna/Constructor_WordGuess/issues"
+  },
+  "homepage": "https://github.com/dkahuna/Constructor_WordGuess#readme"
+}
